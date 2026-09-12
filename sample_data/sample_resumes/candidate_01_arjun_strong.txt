@@ -1,0 +1,32 @@
+Arjun Mehta
+arjun.mehta@example.com | +91 98765 43210
+
+Summary
+Final-year Computer Science student passionate about full-stack web development,
+with hands-on experience building production-style MERN applications.
+
+Education
+B.Tech in Computer Science, Manipal Institute of Technology, 2026 (CGPA 8.9)
+
+Technical Skills
+JavaScript, TypeScript, React, Redux, Node.js, Express.js, MongoDB, REST API,
+HTML5, CSS3, Tailwind CSS, Git, Docker, Jest, Agile/Scrum
+
+Projects
+Campus Marketplace - Built a full-stack marketplace app using React on the frontend
+and a Node.js/Express backend with MongoDB for storage. Implemented REST APIs for
+listings, authentication with JWT, and used Redux for state management. Wrote unit
+tests with Jest and containerized the app with Docker for deployment.
+
+Real-time Chat App - Developed a real-time chat application using Express.js and
+Socket.io, with a React frontend and MongoDB for message persistence. Used Git for
+version control and worked in an Agile sprint-based workflow with a small team.
+
+Internships
+Software Development Intern, PixelCraft Labs (Summer 2025)
+Built and maintained REST APIs in Node.js/Express for an internal admin dashboard,
+integrated MongoDB queries, and collaborated with senior engineers via code reviews
+and daily stand-ups. Improved API response times by optimizing database queries.
+
+Certifications
+AWS Cloud Practitioner (in progress)

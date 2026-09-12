@@ -1,0 +1,42 @@
+Software Development Engineer (SDE) Intern
+
+Synapse Analytics Pvt. Ltd.
+
+About the Role
+Synapse Analytics is hiring a Software Development Engineer Intern to join our
+backend engineering team. You will design, build, and maintain scalable backend
+services, working closely with senior engineers on real production systems.
+
+Responsibilities
+Design and implement backend services and REST APIs
+Write clean, well-tested code following object-oriented design principles
+Work with relational and NoSQL databases to store and query application data
+Debug and optimize existing systems for performance and reliability
+Participate in code reviews, sprint planning, and daily stand-ups
+Apply data structures and algorithms to solve engineering problems efficiently
+Contribute to system design discussions for new features
+
+Required Skills
+Java
+Python
+Data Structures
+Algorithms
+OOP
+System Design
+REST API
+SQL
+Git
+
+Preferred Skills
+Spring Boot
+Docker
+AWS
+MongoDB
+Linux
+Microservices
+
+Qualifications
+Pursuing or recently completed a Bachelor's degree in Computer Science, IT, or a related field
+Strong foundation in data structures, algorithms, and object-oriented programming
+Prior internship or project experience building backend systems is a plus
+Comfortable working independently and in a small team

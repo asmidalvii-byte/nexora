@@ -1,0 +1,27 @@
+Karan Singh
+karan.singh@example.com | +91 98111 22334
+
+Objective
+Mobile application developer seeking opportunities to build native Android
+experiences.
+
+Education
+B.Tech Computer Science, Manipal Institute of Technology, 2026
+
+Skills
+Java, Kotlin, Android Studio, Firebase, SQLite, XML, Git, OOP, Data Structures
+
+Projects
+Fitness Tracker Android App - Built a native Android app in Kotlin using
+Firebase for authentication and Firestore for data storage.
+
+Notes App - A simple Android notes application using SQLite for local
+storage, built in Java.
+
+Internship
+Android Developer Intern, MobileFirst Technologies (Summer 2025)
+Developed and maintained features for a native Android app in Kotlin,
+integrated Firebase push notifications, and fixed UI bugs reported by QA.
+
+Certifications
+Google Associate Android Developer (in progress)

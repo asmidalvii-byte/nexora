@@ -1,0 +1,19 @@
+# Local environments and build products
+.venv/
+venv/
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+.pytest_cache/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+tmp/
+# Sample PDFs and trained model are intentionally versioned.
+
+# User-supplied resumes remain local pending explicit publication approval.
+sample_data/real_dataset/resumes/

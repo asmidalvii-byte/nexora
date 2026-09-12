@@ -1,0 +1,27 @@
+Sneha Kulkarni
+sneha.kulkarni@example.com | +91 90000 11223
+
+Summary
+Frontend-leaning developer with experience in React, currently learning
+backend technologies.
+
+Education
+B.Sc. Computer Science, St. Xavier's College, 2026
+
+Skills
+React, JavaScript, HTML, CSS, Tailwind CSS, Figma, Git, basic Node.js,
+basic MongoDB
+
+Projects
+Recipe Finder App - A React application that fetches recipes from a public
+API and displays them with search and filter functionality, styled with
+Tailwind CSS.
+
+Personal Blog - Built a static blog frontend using React and deployed on
+GitHub Pages. Used Figma to design the UI before implementation.
+
+Internship
+UI Development Intern, BrightWeb Studio (Summer 2025)
+Implemented responsive UI components in React based on Figma designs.
+Fixed CSS layout bugs across browsers and collaborated with a small design
+team.

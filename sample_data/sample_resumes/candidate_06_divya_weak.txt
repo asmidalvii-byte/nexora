@@ -1,0 +1,29 @@
+Divya Rao
+divya.rao@example.com | +91 97001 22556
+
+Summary
+Data-focused student interested in analytics and machine learning.
+
+Education
+B.Sc. Statistics, Manipal Institute of Technology, 2026
+
+Skills
+Python, Pandas, NumPy, Scikit-learn, SQL, Excel, Power BI, Matplotlib,
+basic Git
+
+Projects
+Sales Prediction Model - Built a regression model using scikit-learn and
+pandas to predict monthly sales from historical data, visualized results
+with matplotlib.
+
+Customer Segmentation Dashboard - Used Power BI and SQL to build a customer
+segmentation dashboard from a retail dataset.
+
+Internship
+Data Analyst Intern, InsightWorks (Summer 2025)
+Cleaned and analyzed datasets using pandas, built dashboards in Power BI,
+and wrote SQL queries to support ad-hoc business requests.
+
+Achievements
+Published a short paper on data visualization techniques at a college
+symposium.

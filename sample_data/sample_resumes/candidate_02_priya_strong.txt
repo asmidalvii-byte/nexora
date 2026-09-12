@@ -1,0 +1,29 @@
+Priya Nair
+priya.nair@example.com | +91 91234 56789
+
+Objective
+Aspiring full-stack developer looking for an internship to apply my skills in
+building web applications with modern JavaScript frameworks.
+
+Academic Background
+B.E. Information Technology, Manipal Institute of Technology, expected 2027
+
+Skills
+React.js, JavaScript, Node.js, Express, MongoDB, Git, GitHub, HTML, CSS,
+Bootstrap, basic AWS, basic Docker
+
+Academic Projects
+Task Management App - A MERN-stack task tracker with React frontend, Express
+REST API backend, and MongoDB database. Supports CRUD operations, user login,
+and drag-and-drop task boards.
+
+Portfolio Website - Personal portfolio built with React and hosted using AWS S3,
+styled with Bootstrap and custom CSS.
+
+Hackathons
+Won 2nd place at a 24-hour hackathon building a MERN-based volunteer coordination
+platform, using Express.js and MongoDB with a React dashboard for admins.
+
+Extracurricular Activities
+Core member of the college coding club; conducted a workshop on Git and GitHub
+for juniors.

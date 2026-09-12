@@ -1,0 +1,29 @@
+Rahul Verma
+rahul.verma@example.com | +91 99887 76655
+
+Profile
+Computer Science undergraduate with backend-focused development experience,
+currently expanding into frontend frameworks.
+
+Education
+B.Tech Computer Science, Manipal Institute of Technology, 2026
+
+Technical Skills
+Python, Django, Flask, SQL, PostgreSQL, Git, HTML, CSS, basic JavaScript,
+REST API, Linux
+
+Projects
+Library Management System - Built with Django and PostgreSQL, exposing REST
+APIs for book inventory and member management. Frontend built with basic
+HTML/CSS templates rendered by Django.
+
+Expense Tracker API - A Flask-based REST API for tracking personal expenses,
+using SQLite for storage and JWT for authentication.
+
+Work Experience
+Backend Developer Intern, DataForge Analytics (Winter 2025)
+Maintained Django REST APIs and wrote SQL queries for reporting dashboards.
+Occasionally assisted with small JavaScript fixes on the admin frontend.
+
+Achievements
+Runner-up, inter-college coding competition (2024)
